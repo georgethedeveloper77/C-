@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJECTS\\C#\\C# Program\\C# Program.csproj": {}
+    "E:\\PROJECTS\\C#\\C#-First-Program\\C#-First-Program.csproj": {}
   },
   "projects": {
-    "E:\\PROJECTS\\C#\\C# Program\\C# Program.csproj": {
+    "E:\\PROJECTS\\C#\\C#-First-Program\\C#-First-Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJECTS\\C#\\C# Program\\C# Program.csproj",
-        "projectName": "C# Program",
-        "projectPath": "E:\\PROJECTS\\C#\\C# Program\\C# Program.csproj",
+        "projectUniqueName": "E:\\PROJECTS\\C#\\C#-First-Program\\C#-First-Program.csproj",
+        "projectName": "C#-First-Program",
+        "projectPath": "E:\\PROJECTS\\C#\\C#-First-Program\\C#-First-Program.csproj",
         "packagesPath": "C:\\Users\\RAS\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJECTS\\C#\\C# Program\\obj\\",
+        "outputPath": "E:\\PROJECTS\\C#\\C#-First-Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
