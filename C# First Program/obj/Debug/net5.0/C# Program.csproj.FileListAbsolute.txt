@@ -1,0 +1,16 @@
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.exe
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.deps.json
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.json
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.dll
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\ref\C# Program.dll
+E:\PROJECTS\C#\C# Program\bin\Debug\net5.0\C# Program.pdb
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.csproj.AssemblyReference.cache
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.dll
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\ref\C# Program.dll
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.pdb
+E:\PROJECTS\C#\C# Program\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
