@@ -4,9 +4,26 @@ namespace First_C__program
 {
     class Program
     {
+        //Entry method Main...
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Change the appearance
+            Console.Title = "Skynet";
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WindowHeight = 40;
+
+            Console.WriteLine("Hello, what's your name?");
+
+            Console.ReadLine();
+
+            Console.WriteLine("my name is RX- 900.\n im from future come to kill you");
+            Console.WriteLine("\n Whats your favoure color");
+
+            Console.ReadLine();
+            
+            Console.WriteLine("I will kill you");
+
+            // Console.WriteLine("Hello World!");
             Console.ReadKey(); //wait for input from keyboard
         }
     }
