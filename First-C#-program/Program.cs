@@ -12,6 +12,7 @@ namespace First_C__program
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WindowHeight = 40;
 
+            //Conversation going
             Console.WriteLine("Hello, what's your name?");
 
             Console.ReadLine();
