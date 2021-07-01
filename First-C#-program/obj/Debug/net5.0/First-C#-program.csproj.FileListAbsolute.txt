@@ -1,0 +1,16 @@
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.exe
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.deps.json
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.runtimeconfig.json
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.runtimeconfig.dev.json
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.dll
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\ref\First-C#-program.dll
+E:\PROJECTS\C#\First-C#-program\bin\Debug\net5.0\First-C#-program.pdb
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.csproj.AssemblyReference.cache
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.AssemblyInfoInputs.cache
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.AssemblyInfo.cs
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.csproj.CoreCompileInputs.cache
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.dll
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\ref\First-C#-program.dll
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.pdb
+E:\PROJECTS\C#\First-C#-program\obj\Debug\net5.0\First-C#-program.genruntimeconfig.cache

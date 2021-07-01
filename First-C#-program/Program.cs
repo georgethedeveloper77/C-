@@ -1,16 +1,13 @@
 ﻿using System;
 
-namespace C__First_Program
+namespace First_C__program
 {
     class Program
     {
-        // Main Function...entry
         static void Main(string[] args)
         {
-            Console.Title = "Skynet";
-
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Console.ReadKey(); //wait for input from keyboard
         }
     }
 }
