@@ -1,28 +1,25 @@
-﻿using System;
+using System;
 
-namespace First_C__program
+namespace My_Variables
 {
     class Program
     {
         //Entry method Main...
         static void Main(string[] args)
         {
-            // Change the appearance
-            Console.Title = "Skynet";
-            Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WindowHeight = 40;
+          //Declearing a varible
+            double num01;
+            double num02;
 
-            //Conversation going
-            Console.WriteLine("Hello, what's your name?");
+            Console.Write("Input a Number: ");
+            num01 = Convert.ToDouble( Console.ReadLine());
 
-            Console.ReadLine();
+            Console.Write("Input Second Number: ");
+            num02 = Convert.ToDouble( Console.ReadLine());
 
-            Console.WriteLine("my name is RX- 900.\n im from future come to kill you");
-            Console.WriteLine("\n Whats your favoure color");
+            double result = num01 * num02;
+            Console.WriteLine("the result is: "+  result);
 
-            Console.ReadLine();
-            
-            Console.WriteLine("I will kill you");
 
             // Console.WriteLine("Hello World!");
             Console.ReadKey(); //wait for input from keyboard
